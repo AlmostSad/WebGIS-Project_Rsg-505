@@ -1,0 +1,14 @@
+Official university address and identity sources:
+PMAS-Arid Agriculture University Rawalpindi: https://uaar.edu.pk/contact/
+Fatima Jinnah Women University, Contact Information: https://www.fjwu.edu.pk/contact-us/contact-information/
+
+University coordinate references (OpenStreetMap-based):
+Arid Agricultural University, Mapcarta: https://mapcarta.com/26422934
+Fatima Jinnah Women University, Mapcarta: https://mapcarta.com/26423252
+
+Technical documentation:
+Leaflet Quick Start: https://leafletjs.com/examples/quick-start/
+OpenStreetMap Copyright/Attribution: https://www.openstreetmap.org/copyright
+OpenStreetMap tile usage policy: https://operations.osmfoundation.org/policies/tiles/
+OSRM API documentation: https://project-osrm.org/docs/
+MDN Geolocation API: https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
